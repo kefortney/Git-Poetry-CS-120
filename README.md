@@ -4,7 +4,7 @@ This is a class exercise for CS 120 QR: Advanced Programming where students expl
 ## The Rules
 * Clone/Branch repo
 * Add a haiku about Autumn (5 syllables, 7 syllables, 5 syllables separated by "/") at the number row that match what you were given in class
-* Example: Falling leaves crunching/drifting into piles under foot/Childhood again, now JUMP!
+* Example: Falling leaves crunching/Forming orange and red piles/Childhood again, now JUMP!
 * Submit a Pull Request
 * Be appropriate!
 
